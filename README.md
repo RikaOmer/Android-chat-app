@@ -1,7 +1,7 @@
 # welcome to BOYA!
  ![boya_logo](https://github.com/BarelHeby/ADP2_EX3/assets/107642301/3a4ee655-8233-454e-b96b-cb50fb741205)
 
-This project will be a Android application named Boya, that will work as social media for sharing messages with a server that suppor also web users (read more here https://github.com/BarelHeby/ADP2EX2.git).
+This project will be a Android application named Boya, that will work as social media for sharing messages with a server that suppor also web users.
 
 The application will work under the server and every user who want to join it will need to go to http://SERVER_IP:2500/ (where SERVER_IP is the ip of the computer that running the server and the android device need to be connected with this computer via router) and then the server will give him the login page.
 
