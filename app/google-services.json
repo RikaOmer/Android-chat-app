@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417543695816",
+    "project_id": "boyaproj",
+    "storage_bucket": "boyaproj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417543695816:android:1b54c1f971c419ca8ea4fd",
+        "android_client_info": {
+          "package_name": "com.example.adp2_ex3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417543695816-lvrth15h3scmv6u7gojc8c3168kj075i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8SMKpit0_gTRNtNCPz-Wc01VnTlnfaY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417543695816-lvrth15h3scmv6u7gojc8c3168kj075i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
